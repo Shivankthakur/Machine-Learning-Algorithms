@@ -1,6 +1,6 @@
 # Machine-Learning-Algorithms
 BITSF464 Machine Learning Assignments <br>
-Implementing ML Algorithms using numpy, pandas and matplotlib python libraries.
+Implementing ML Algorithms using NumPy, Pandas and Matplotlib python libraries.
 
 ### Project Team
 <ul>
